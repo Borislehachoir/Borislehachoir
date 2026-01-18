@@ -1,12 +1,9 @@
-- 👋 Hi, I’m Boris
-- 👀 I’m interested in anime, travelling, books and sleeping
-- 🌱 I’m currently learning to code websites in university, and I'm using github for this specific reason. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I really like sleeping, but sleeping doesn't love me as much. 
+Etudiant en deuxième année de **BUT MMI** intéressé par l'informatique, je réalisedes projets soit pour l'école, soit des projets personnels me permettant d'acquérir, de comprendre ou d'aborder de nouvelles notions. 
 
-<!---
-Borislehachoir/Borislehachoir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+J'ai pour hobbies la littérature, l'escalade et la randonnée.
+
+En septembre 2026, je compte poursuivre mes études en BUT MMI parcours développement web et dispositifs interactifs, afin de travailler dans l'informatique. 
+
+Bonne visite de mon profil, et en vous souhaitant une bonne journée ! 
+
+-***Boris***
