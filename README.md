@@ -1,4 +1,4 @@
-Etudiant en deuxième année de **BUT MMI** intéressé par l'informatique, je réalisedes projets soit pour l'école, soit des projets personnels me permettant d'acquérir, de comprendre ou d'aborder de nouvelles notions. 
+Etudiant en deuxième année de **BUT MMI** intéressé par l'informatique, je réalise des projets soit pour l'école, soit des projets personnels me permettant d'acquérir, de comprendre ou d'aborder de nouvelles notions. 
 
 J'ai pour hobbies la littérature, l'escalade et la randonnée.
 
