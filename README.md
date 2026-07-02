@@ -2,7 +2,7 @@ Etudiant en deuxième année de **BUT MMI** intéressé par l'informatique, je r
 
 J'ai pour hobbies la littérature, l'escalade et la randonnée.
 
-En septembre 2026, je compte poursuivre mes études en BUT MMI parcours développement web et dispositifs interactifs. 
+En septembre 2026, je poursuivrais mes études en BUT MMI parcours développement web et dispositifs interactifs. 
 
 Bonne visite de mon profil, et en vous souhaitant une bonne journée ! 
 
