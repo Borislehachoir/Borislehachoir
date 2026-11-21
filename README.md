@@ -8,7 +8,7 @@ Ce GitHub, c'est un peu à voir comme mon journal intime, mon studio, mon atelie
 
 Voici quelques projets sur lesquels je travaille ou avec lesquels j'expérimente :
 
-**Minijeux**
+**Minijeux (Chasing Rioters, vouspesezcombien)**
 
 Plusieurs petits jeux pour expérimenter avec la logique, les interactions et différentes mécaniques de gameplay.
 
