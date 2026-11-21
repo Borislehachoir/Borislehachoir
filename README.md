@@ -1,18 +1,19 @@
 # Salut, moi c'est Boris !
 
-Étudiant en troisième année de **BUT MMI**, parcours **Développement web et dispositifs interactifs**, à l'IUT de Tarbes.
+Étudiant en troisième année de **BUT MMI**, parcours **Développement web et dispositifs interactifs**, à l'IUT de Tarbes, j'aime bien comprendre comment les choses fonctionnent, découvrir de nouvelles technologies et surtout essayer de construire mes propres projets.
 
-J'aime bien comprendre comment les choses fonctionnent, découvrir de nouvelles technologies et surtout essayer de construire mes propres projets.
-
-Ce GitHub, c'est un peu mon journal intime, mon studio, mon atelier : on y trouve des projets universitaires, des choses que je teste de mon côté et quelques idées que j'ai eu envie de transformer en code, parfois pour répondre à un besoin, parfois simplement pour apprendre et très souvent par curiosité !
+Ce GitHub, c'est un peu à voir comme mon journal intime, mon studio, mon atelier : on y trouve certes des projets universitaires, mais aussi des choses que je teste de mon côté et quelques idées que j'ai eu envie de transformer en code, parfois pour répondre à un besoin, parfois simplement pour apprendre et très souvent par curiosité !
 
 ## Sur mon établi en ce moment
 
-Quelques projets sur lesquels je travaille ou avec lesquels j'expérimente :
+Voici quelques projets sur lesquels je travaille ou avec lesquels j'expérimente :
 
-**Mini-jeux en JavaScript**
+**Minijeux**
 
 Plusieurs petits jeux pour expérimenter avec la logique, les interactions et différentes mécaniques de gameplay.
+
+**sae402**
+Un projet universitaire basé sur Moholy-Nagy, un artisan du Bauhaus ayant fondé à Chicago une école d'art reconnue qui perdure encore aujourd'hui.
 
 **DicoRandom** 
 Un dictionnaire avec un fonctionnement particulier, pour découvrir des mots dont vous ignorez probablement l'existence ! 
