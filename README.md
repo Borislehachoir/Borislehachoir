@@ -17,6 +17,7 @@ Plusieurs petits jeux pour expérimenter avec la logique, les interactions et di
 Un projet universitaire basé sur Moholy-Nagy, un artisan du Bauhaus ayant fondé à Chicago une école d'art reconnue qui perdure encore aujourd'hui.
 
 **DicoRandom** 
+
 Un dictionnaire avec un fonctionnement particulier, pour découvrir des mots dont vous ignorez probablement l'existence ! 
 
 Et d'autres idées qui finiront (peut-être) par se retrouver ici !
