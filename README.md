@@ -13,6 +13,7 @@ Voici quelques projets sur lesquels je travaille ou avec lesquels j'expérimente
 Plusieurs petits jeux pour expérimenter avec la logique, les interactions et différentes mécaniques de gameplay.
 
 **sae402**
+
 Un projet universitaire basé sur Moholy-Nagy, un artisan du Bauhaus ayant fondé à Chicago une école d'art reconnue qui perdure encore aujourd'hui.
 
 **DicoRandom** 
