@@ -2,7 +2,7 @@
 
 Étudiant en troisième année de **BUT MMI**, parcours **Développement web et dispositifs interactifs**, à l'IUT de Tarbes, j'aime bien comprendre comment les choses fonctionnent, découvrir de nouvelles technologies et surtout essayer de construire mes propres projets.
 
-Ce GitHub, c'est un peu à voir comme mon journal intime, mon studio, mon atelier : on y trouve certes des projets universitaires, mais aussi des choses que je teste de mon côté et quelques idées que j'ai eu envie de transformer en code, parfois pour répondre à un besoin, parfois simplement pour apprendre et très souvent par curiosité !
+Ce GitHub, c'est un peu à voir comme mon journal intime, mon studio, mon atelier : on y trouve certes des projets universitaires, mais aussi des choses que je teste de mon côté et quelques idées que j'ai eu envie de transformer en code, parfois pour répondre à un besoin, souvent simplement pour la joie d'apprendre et presque toujours par curiosité !
 
 ## Sur mon établi en ce moment
 
